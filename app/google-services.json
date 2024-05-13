@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "513424168719",
+    "firebase_url": "https://databasescanner-e706e-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "databasescanner-e706e",
+    "storage_bucket": "databasescanner-e706e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513424168719:android:722d24dffe8e75f6a1907a",
+        "android_client_info": {
+          "package_name": "com.example.scanner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK3RDpUtQU2T3qePtP7tgI0oxdn9qnZd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
